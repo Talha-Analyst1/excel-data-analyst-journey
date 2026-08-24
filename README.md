@@ -22,3 +22,5 @@ This is a hands-on Excel learning journey aimed at Data Analyst and HR roles.
 **Files:**
 - `HR_Project_Company.xlsx` — Employee Leave Management System (3 sheets: Employee Master, Leave Records, Summary). Uses VLOOKUP across sheets + SUMIF/COUNTIF to analyze leave patterns by department.
 - `DataAnalyst_Project_Company.xlsx` — Sales Order Analysis System (3 sheets: Product Master, Sales Orders, Summary). Uses VLOOKUP to enrich order data + SUMIF/COUNTIF for revenue and region insights.
+## Week 2 Mini Project
+- `Week2_Project_RegionalSales.xlsx` — Regional Sales Performance Tracker. Combines VLOOKUP (employee-to-region mapping), HLOOKUP/INDEX-MATCH (quarterly targets from a horizontal chart), and IF (achievement status) in one real-world sales tracking scenario.
