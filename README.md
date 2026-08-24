@@ -24,3 +24,6 @@ This is a hands-on Excel learning journey aimed at Data Analyst and HR roles.
 - `DataAnalyst_Project_Company.xlsx` — Sales Order Analysis System (3 sheets: Product Master, Sales Orders, Summary). Uses VLOOKUP to enrich order data + SUMIF/COUNTIF for revenue and region insights.
 ## Week 2 Mini Project
 - `Week2_Project_RegionalSales.xlsx` — Regional Sales Performance Tracker. Combines VLOOKUP (employee-to-region mapping), HLOOKUP/INDEX-MATCH (quarterly targets from a horizontal chart), and IF (achievement status) in one real-world sales tracking scenario.
+## Week 3 Mini Projects
+- `Week3_HR_Project.xlsx` — Employee Attrition & Headcount Analysis. Uses Pivot Tables (department-wise headcount & salary), SUMIFS/COUNTIFS (multi-condition analysis), Nested IF (salary grading), and Conditional Formatting (attendance flagging).
+- `Week3_DataAnalyst_Project.xlsx` — Sales Performance Analysis. Uses Pivot Tables (category-wise revenue & order count), SUMIFS, IF (target achievement status), and Conditional Formatting (underperformance flagging).
