@@ -27,3 +27,16 @@ This is a hands-on Excel learning journey aimed at Data Analyst and HR roles.
 ## Week 3 Mini Projects
 - `Week3_HR_Project.xlsx` — Employee Attrition & Headcount Analysis. Uses Pivot Tables (department-wise headcount & salary), SUMIFS/COUNTIFS (multi-condition analysis), Nested IF (salary grading), and Conditional Formatting (attendance flagging).
 - `Week3_DataAnalyst_Project.xlsx` — Sales Performance Analysis. Uses Pivot Tables (category-wise revenue & order count), SUMIFS, IF (target achievement status), and Conditional Formatting (underperformance flagging).
+## Week 4 — Charts & Final Dashboards
+- Chart types (bar, line, pie, combo) with formatting (titles, axis labels, data labels)
+- Dashboard design: KPI cards, Pivot Charts, interactive Slicers
+- Data cleaning: removing duplicates, Text to Columns
+
+**Final Portfolio Projects:**
+- `Final_HR_Dashboard_Project.xlsx` — HR Analytics Dashboard (40 employees). 5 KPIs (headcount, active/resigned, avg salary, avg attendance), Department-wise headcount chart, City-wise salary breakdown, interactive Status slicer.
+- `Final_DataAnalyst_Dashboard_Project.xlsx` — Sales Analytics Dashboard (45 orders). 4 KPIs (revenue, orders, target achievement, avg revenue), Region-wise revenue chart, Category-wise revenue breakdown, interactive Month slicer.
+
+---
+
+## Summary
+This repo documents a self-guided 30-day Excel learning journey, progressing from foundational formulas to advanced lookups, pivot tables, and fully interactive dashboards — built for both Data Analyst and HR analytics use cases.
