@@ -35,6 +35,8 @@ This is a hands-on Excel learning journey aimed at Data Analyst and HR roles.
 **Final Portfolio Projects:**
 - `Final_HR_Dashboard_Project.xlsx` — HR Analytics Dashboard (40 employees). 5 KPIs (headcount, active/resigned, avg salary, avg attendance), Department-wise headcount chart, City-wise salary breakdown, interactive Status slicer.
 - `Final_DataAnalyst_Dashboard_Project.xlsx` — Sales Analytics Dashboard (45 orders). 4 KPIs (revenue, orders, target achievement, avg revenue), Region-wise revenue chart, Category-wise revenue breakdown, interactive Month slicer.
+## Revision Practice
+- `VLOOKUP_Practice6_Insurance.xlsx` — Additional VLOOKUP revision exercise (employee insurance enrollment scenario) — extra practice after completing the core 30-day roadmap, to strengthen lookup fundamentals.
 
 ---
 
